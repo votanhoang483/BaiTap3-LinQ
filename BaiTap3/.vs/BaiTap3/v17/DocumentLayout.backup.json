@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SE310_.NET\\BaiTap3-LinQ\\BaiTap3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE62833A-1E94-44A1-AD1E-9A4064A8A83F}|BaiTap3\\BaiTap3.csproj|d:\\se310_.net\\baitap3-linq\\baitap3\\baitap3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE62833A-1E94-44A1-AD1E-9A4064A8A83F}|BaiTap3\\BaiTap3.csproj|solutionrelative:baitap3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE62833A-1E94-44A1-AD1E-9A4064A8A83F}|BaiTap3\\BaiTap3.csproj|d:\\se310_.net\\baitap3-linq\\baitap3\\baitap3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BE62833A-1E94-44A1-AD1E-9A4064A8A83F}|BaiTap3\\BaiTap3.csproj|solutionrelative:baitap3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE62833A-1E94-44A1-AD1E-9A4064A8A83F}|BaiTap3\\BaiTap3.csproj|d:\\se310_.net\\baitap3-linq\\baitap3\\baitap3\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE62833A-1E94-44A1-AD1E-9A4064A8A83F}|BaiTap3\\BaiTap3.csproj|solutionrelative:baitap3\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE62833A-1E94-44A1-AD1E-9A4064A8A83F}|BaiTap3\\BaiTap3.csproj|d:\\se310_.net\\baitap3-linq\\baitap3\\baitap3\\gradientpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE62833A-1E94-44A1-AD1E-9A4064A8A83F}|BaiTap3\\BaiTap3.csproj|solutionrelative:baitap3\\gradientpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE62833A-1E94-44A1-AD1E-9A4064A8A83F}|BaiTap3\\BaiTap3.csproj|d:\\se310_.net\\baitap3-linq\\baitap3\\baitap3\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE62833A-1E94-44A1-AD1E-9A4064A8A83F}|BaiTap3\\BaiTap3.csproj|solutionrelative:baitap3\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE62833A-1E94-44A1-AD1E-9A4064A8A83F}|BaiTap3\\BaiTap3.csproj|d:\\se310_.net\\baitap3-linq\\baitap3\\baitap3\\list_sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE62833A-1E94-44A1-AD1E-9A4064A8A83F}|BaiTap3\\BaiTap3.csproj|solutionrelative:baitap3\\list_sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\SE310_.NET\\BaiTap3-LinQ\\BaiTap3\\BaiTap3\\Form1.cs",
+              "RelativeDocumentMoniker": "BaiTap3\\Form1.cs",
+              "ToolTip": "D:\\SE310_.NET\\BaiTap3-LinQ\\BaiTap3\\BaiTap3\\Form1.cs",
+              "RelativeToolTip": "BaiTap3\\Form1.cs",
+              "ViewState": "AgIAAPoAAAAAAAAAAAAqwAoBAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T05:43:59.868Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\SE310_.NET\\BaiTap3-LinQ\\BaiTap3\\BaiTap3\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "BaiTap3\\Form1.Designer.cs",
+              "ToolTip": "D:\\SE310_.NET\\BaiTap3-LinQ\\BaiTap3\\BaiTap3\\Form1.Designer.cs",
+              "RelativeToolTip": "BaiTap3\\Form1.Designer.cs",
+              "ViewState": "AgIAAHoBAAAAAAAAAAAewJ4BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T11:55:02.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "List_SanPham.cs",
+              "DocumentMoniker": "D:\\SE310_.NET\\BaiTap3-LinQ\\BaiTap3\\BaiTap3\\List_SanPham.cs",
+              "RelativeDocumentMoniker": "BaiTap3\\List_SanPham.cs",
+              "ToolTip": "D:\\SE310_.NET\\BaiTap3-LinQ\\BaiTap3\\BaiTap3\\List_SanPham.cs",
+              "RelativeToolTip": "BaiTap3\\List_SanPham.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAYwCEAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T08:35:24.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SanPham.cs",
+              "DocumentMoniker": "D:\\SE310_.NET\\BaiTap3-LinQ\\BaiTap3\\BaiTap3\\SanPham.cs",
+              "RelativeDocumentMoniker": "BaiTap3\\SanPham.cs",
+              "ToolTip": "D:\\SE310_.NET\\BaiTap3-LinQ\\BaiTap3\\BaiTap3\\SanPham.cs",
+              "RelativeToolTip": "BaiTap3\\SanPham.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAApwBoAAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T08:21:44.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\SE310_.NET\\BaiTap3-LinQ\\BaiTap3\\BaiTap3\\Form1.cs",
+              "RelativeDocumentMoniker": "BaiTap3\\Form1.cs",
+              "ToolTip": "D:\\SE310_.NET\\BaiTap3-LinQ\\BaiTap3\\BaiTap3\\Form1.cs [Design]",
+              "RelativeToolTip": "BaiTap3\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T05:43:49.621Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GradientPanel.cs",
+              "DocumentMoniker": "D:\\SE310_.NET\\BaiTap3-LinQ\\BaiTap3\\BaiTap3\\GradientPanel.cs",
+              "RelativeDocumentMoniker": "BaiTap3\\GradientPanel.cs",
+              "ToolTip": "D:\\SE310_.NET\\BaiTap3-LinQ\\BaiTap3\\BaiTap3\\GradientPanel.cs",
+              "RelativeToolTip": "BaiTap3\\GradientPanel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T06:25:07.674Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

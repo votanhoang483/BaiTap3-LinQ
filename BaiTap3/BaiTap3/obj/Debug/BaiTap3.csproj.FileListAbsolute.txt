@@ -1,0 +1,10 @@
+D:\SE310_.NET\BaiTap3-LinQ\BaiTap3\BaiTap3\bin\Debug\BaiTap3.exe.config
+D:\SE310_.NET\BaiTap3-LinQ\BaiTap3\BaiTap3\bin\Debug\BaiTap3.exe
+D:\SE310_.NET\BaiTap3-LinQ\BaiTap3\BaiTap3\bin\Debug\BaiTap3.pdb
+D:\SE310_.NET\BaiTap3-LinQ\BaiTap3\BaiTap3\obj\Debug\BaiTap3.csproj.AssemblyReference.cache
+D:\SE310_.NET\BaiTap3-LinQ\BaiTap3\BaiTap3\obj\Debug\BaiTap3.Properties.Resources.resources
+D:\SE310_.NET\BaiTap3-LinQ\BaiTap3\BaiTap3\obj\Debug\BaiTap3.csproj.GenerateResource.cache
+D:\SE310_.NET\BaiTap3-LinQ\BaiTap3\BaiTap3\obj\Debug\BaiTap3.csproj.CoreCompileInputs.cache
+D:\SE310_.NET\BaiTap3-LinQ\BaiTap3\BaiTap3\obj\Debug\BaiTap3.exe
+D:\SE310_.NET\BaiTap3-LinQ\BaiTap3\BaiTap3\obj\Debug\BaiTap3.pdb
+D:\SE310_.NET\BaiTap3-LinQ\BaiTap3\BaiTap3\obj\Debug\BaiTap3.Form1.resources
